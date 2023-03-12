@@ -1,5 +1,5 @@
  # Ranking Api For Roblox
- A super cool lightweight web server than can process ranking requests.
+ A super cool lightweight web server that can process ranking requests.
  # How To Use
  First, fill in the ``.env`` file. <br />
  Then you can watch these video tutorials for example use cases: <br />
