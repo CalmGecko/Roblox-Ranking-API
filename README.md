@@ -10,4 +10,4 @@
   
  # Credits
  [Original Code](https://github.com/CookieHax/RankingAPI) <br />
- [Setup Tutorial](https://www.youtube.com/watch?v=O7NCB1deKCE) Note: You can not host this on heroku as i have updated the code
+ [Setup Tutorial](https://www.youtube.com/watch?v=O7NCB1deKCE) Note: You can not host this on heroku as i have updated the code.
